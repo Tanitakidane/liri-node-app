@@ -1,9 +1,8 @@
 # LIRI-Bot
 
-Description
 LIRI-bot (Language Interpretation and Recognition Interface) is a CLI (Command Line Interface) app built through the use of node.js which, not unlike it's SIRI namesake, accepts user input and facilitates an appropriate response. In the case of LIRI user input comes in the form of command line arguments which, that this context, are further defined as either a "command" or a "command argument". LIRI accepts these commands and responds with the appropriate predefined function.
 
-Installation
+
 In order to run LIRI-bot simply fork this repository and within the cloned directory install it's node dependencies with:
 
 npm install
