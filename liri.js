@@ -1,7 +1,5 @@
-// Code to read set any enviroment variables with the dotenv package
 require('dotenv').config();
 
-// Importing files needed to run the functions
 var fs = require('fs');
 var request = require('request');
 var keys =  require('./keys.js');
@@ -35,7 +33,7 @@ function userRequest(command, param) {
         getRandom();
         break;
 
-        // If no command is entered, this is the default message to user
+
         default:
         console.log('Please enter a valid command: spotify-this-song, concert-this, movie-this, or do-what-it-says.');
     }

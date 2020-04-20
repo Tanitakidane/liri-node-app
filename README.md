@@ -1,5 +1,6 @@
 # LIRI-Bot
 
+
 LIRI-bot (Language Interpretation and Recognition Interface) is a CLI (Command Line Interface) app built through the use of node.js which, not unlike it's SIRI namesake, accepts user input and facilitates an appropriate response. In the case of LIRI user input comes in the form of command line arguments which, that this context, are further defined as either a "command" or a "command argument". LIRI accepts these commands and responds with the appropriate predefined function.
 
 
@@ -25,3 +26,4 @@ do-what-it-says
 node liri.js 'do-what-it-says'
 The 'do-what-it-says' command will run the first command that is logged in the random.txt file.
 
+[![liri hw](https://i9.ytimg.com/vi/kOGdMsWInmg/mq2.jpg?sqp=CITV-PQF&rs=AOn4CLDTWyDSLUpPcBDzIwK-lW4WcoprvQ)](https://youtu.be/kOGdMsWInmg)
